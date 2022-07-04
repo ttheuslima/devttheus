@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<div style="center">
-<img src"![octocat-1656621589866](https://user-images.githubusercontent.com/107509938/176775158-77829cb0-bfdc-4fba-a5d9-296c6bfc48d5.png)"
+
+<div>
+<img src"![octocat-1656621589866](https://user-images.githubusercontent.com/107509938/177213675-c315d15b-3cfd-4baa-bc0e-ae16c772f840.png)
+"
 </div>
 
 
