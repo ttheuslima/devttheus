@@ -1,4 +1,5 @@
-<h1 aligns="center">Hey Community</h1>
+<h1 align="center">Hey Community</h1>
+
 - 👋 Hi, there! I’m @devttheus
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
